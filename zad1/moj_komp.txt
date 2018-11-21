@@ -1,0 +1,4 @@
+Pojemność dysku: 251 GB
+Ilość pamięci RAM: 8 GB
+Rodzaj i prędkość procesora: 2,7 GHz Intel Core i5
+System: macOS High Sierra
