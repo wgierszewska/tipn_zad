@@ -1,1 +1,5 @@
 Plik tekstowy 1
+bla bla bla
+123
+456
+789
